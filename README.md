@@ -2,7 +2,7 @@
 
 # Download
 Direct link:
-64Bits: 
+64Bits: https://github.com/RuinedViego/Ruined-Tool/releases/download/V1.0/RuinedTool.64bits.zip
 32Bits: https://github.com/RuinedViego/Ruined-Tool/releases/download/V1.0/RuinedTool.32Bits.zip
 
 # It Doesn't work ?

@@ -2,7 +2,7 @@
 
 # Download
   64 BITS:  https://github.com/RuinedViego/Ruined-Tool/releases/download/V1.0/RuinedTool.64Bits.zip        
-  32 BITS:  
+  32 BITS:  https://github.com/RuinedViego/Ruined-Tool/releases/download/V1.0/RuinedTool.32Bits.zip
 
 # It Doesn't work ?
 Make sure to add the app to your antivirus excludings and run it as an administrator.

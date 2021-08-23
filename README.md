@@ -17,7 +17,7 @@ I developed this with no prior html/css/js knowledge and started working on this
 
 # Download
   64 BITS:  https://github.com/RuinedViego/Ruined-Tool/releases/download/V1.0/RuinedTool.64Bits.zip        
-  32 BITS:  https://github.com/RuinedViego/Ruined-Tool/releases/download/V1.0/RuinedTool.32Bits.zip
+  32 BITS:  https://github.com/RuinedViego/Ruined-Tool/releases/download/V1.0/RuinedTool.32Bits.zip               
   After the download finishes extract all the files somewhere and run Ruined Tool.exe normally.
 
 # It Doesn't work ?

@@ -41,8 +41,8 @@ Discord Server For More exploits and Help: https://discord.gg/6XRGm2DNU9
 ![fezfdqs](https://user-images.githubusercontent.com/81854150/130477701-8bff3d36-b31d-40b0-a94f-a0db95835273.PNG)
 
 # Download
-  64 BITS:  https://github.com/RuinedViego/Ruined-Tool/releases/download/V1.0/RuinedTool.64Bits.zip        
-  32 BITS:  https://github.com/RuinedViego/Ruined-Tool/releases/download/V1.0/RuinedTool.32Bits.zip               
+  64 BITS:  https://github.com/RuinedViego/Ruined-Tool/releases/download/v0.0.1/RuinedTool64bits.zip        
+  32 BITS:  https://github.com/RuinedViego/Ruined-Tool/releases/download/v0.0.1/RuinedTool32bits.zip             
   After the download finishes extract all the files somewhere and run Ruined Tool.exe normally.
 
 # It Doesn't work ?
